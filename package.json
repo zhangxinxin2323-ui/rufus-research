@@ -1,0 +1,9 @@
+{
+  "name": "rufus-research",
+  "version": "2.0.0",
+  "description": "Amazon Rufus AI research automation via Chrome puppeteer",
+  "type": "module",
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
